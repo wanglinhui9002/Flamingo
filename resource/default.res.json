@@ -1,0 +1,17 @@
+{
+	"groups":[
+		{
+			"keys":"",
+			"name":"preload"
+		},
+		{
+			"keys":"res_mpt",
+			"name":"must"
+		}
+	],
+	"resources":[{
+			"name":"res_mpt",
+			"type":"bin",
+			"url":"assets/config/res.mpt"
+		}]
+}
